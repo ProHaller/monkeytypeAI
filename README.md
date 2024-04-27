@@ -59,6 +59,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgements 🙏
 
+- Shrijal Acharya and [his excellent article](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7) that I shamelessly copied. 
 - The amazing folks at OpenAI for creating GPT-3.5 and enabling us to generate wacky typing prompts! 🤖
 - The creators of the curses library for providing a cool way to build terminal-based interfaces. 😎
 - The monkey emoji for being the unofficial mascot of this project. 🐒
